@@ -45,3 +45,5 @@ Submit your comments via the Issues section on TRON’s GitHub project page. Sub
 7. Reward will be sent out within 7 working days following its announcement.
 
 8. All rights of interpretation for Bug Bounty are reserved to TRON.
+
+I have found a bug like behavior where Ethereum based privacy keys will unlock and generate random Tron Addresses that have or show no ethereum or ethereum based token balances but still yet generates a Tron network address of different sorts with different ethereum network privacy keys.
